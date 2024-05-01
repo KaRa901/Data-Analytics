@@ -26,3 +26,5 @@ plt.figure()
 x=np.arange(4750,8187.5,1.25)
 y=B_mean
 N=np.size(x)
+
+plt.plot(x,y)
